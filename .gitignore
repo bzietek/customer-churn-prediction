@@ -19,3 +19,4 @@ Thumbs.db
 # Data files (often too large for git)
 *.csv
 !data/sample.csv
+models/
